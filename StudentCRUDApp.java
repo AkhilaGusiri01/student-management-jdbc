@@ -8,7 +8,7 @@ public class StudentCRUDApp {
     // Database credentials
     static final String URL = "jdbc:mysql://localhost:3306/cleanjdbc";
     static final String USER = "root";
-    static final String PASSWORD = "Akhi@2001";
+    static final String PASSWORD = "your_password";
 
     static Scanner sc = new Scanner(System.in);
 
@@ -145,3 +145,4 @@ public class StudentCRUDApp {
         }
     }
 }
+
